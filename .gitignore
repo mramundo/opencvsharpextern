@@ -1,0 +1,10 @@
+# Specific folders
+build
+opencv-4.7.0
+opencv_contrib-4.7.0
+opencv_macos
+
+
+# File extensions
+*.zip
+**/.DS_Store
